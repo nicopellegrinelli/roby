@@ -15,7 +15,7 @@ setuptools.setup(
         'Pillow>=5.4.1',
         'Keras>=2.2.4',
         'tensorflow==2.3.1',
-        'sklearn',
+        'scikit-learn',
         'PyDrive>=1.3.1',
         'scipy>=1.4.1',
         'oauth2client>=4.1.3',
